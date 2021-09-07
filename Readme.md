@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-1.jpg?raw=true]](https://example.com)
+![NextBook-1][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-1.jpg?raw=true]](https://example.com)
 ![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-2.jpg?raw=true]](https://example.com)
 ![App Screenshot]https://github.com/nivedin/Social-Media-Nextjs/blob/main/repo-images/NextBook-3.jpg?raw=true]](https://example.com)
 ![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-4.jpg?raw=true]](https://example.com)
