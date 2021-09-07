@@ -42,6 +42,7 @@
 ## About The Project
 
 ![NextBook-1][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-1.jpg?raw=true]
+<img src="repo-images/NextBook-1.jpg" alt="Screenshot">
 ![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-2.jpg?raw=true]
 ![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-3.jpg?raw=true]
 ![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-4.jpg?raw=true]
