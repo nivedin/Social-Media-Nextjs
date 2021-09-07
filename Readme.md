@@ -41,13 +41,12 @@
 
 ## About The Project
 
-![NextBook-1][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-1.jpg?raw=true]
 <img src="repo-images/NextBook-1.jpg" alt="Screenshot">
-![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-2.jpg?raw=true]
-![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-3.jpg?raw=true]
-![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-4.jpg?raw=true]
-![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-5.jpg?raw=true]
-![App Screenshot][https://github.com/nivedin/social-media-nextjs/blob/main/repo-images/nextbook-6.jpg?raw=true]
+<img src="repo-images/NextBook-2.jpg" alt="Screenshot">
+<img src="repo-images/NextBook-3.jpg" alt="Screenshot">
+<img src="repo-images/NextBook-4.jpg" alt="Screenshot">
+<img src="repo-images/NextBook-5.jpg" alt="Screenshot">
+<img src="repo-images/NextBook-6.jpg" alt="Screenshot">
 
 NextBook is a minimalistic social network built using Nextjs and MERN stack. It’s super fast with real-time notification and chats - the reason for its speed is that it's built using functional programming (FP) concepts like immutability.
 
