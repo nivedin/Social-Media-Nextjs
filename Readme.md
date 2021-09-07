@@ -102,6 +102,11 @@ Run the code
 npm start
 ```
 
+Test Login Credentials
+
+Email - nivedinpp@gmail.com
+Password - qwe123
+
 <!-- CONTACT -->
 
 ## Contact
